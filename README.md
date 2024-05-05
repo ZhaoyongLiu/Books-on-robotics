@@ -10,4 +10,13 @@
 ## 2. MATLAB 仿真
 [1] 刘金琨. 机器人控制系统的设计与MATLAB仿真--基本设计方法[M]. 北京，清华大学出版社，2016. 
 
-## 3. 仿生机器人
+## 3. 状态估计
+[1] T. D. Barfoot. 机器人学中的状态估计[M]. 高翔，等，译. 西安：西安交通大学出版社，2018.
+
+## 4. 欠驱动机器人
+[1] R. Tedrake. Underactuated Robotics--Learning, Planning, and Control for Efficient and Agile Machines[M]. Course Notes for MIT 6.832, 2018.
+
+## 5. 仿生机器人
+[1] 贺威，孙长银. 扑翼飞行机器人系统设计[M]. 北京，化学工业出版社，2018. 
+
+## 6. 自动驾驶
