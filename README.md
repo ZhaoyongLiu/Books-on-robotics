@@ -5,7 +5,9 @@
 [2] R. Siegwart, I. R. Noubakhsh, and D. Scaramuzza. 自主移动机器人导论[M]. 李人厚，等，译. 西安：西安交通大学出版社，2013.  
 [3] B. Siciliano, L. Sciavicco, L. Villani, and G. Oriolo. 机器人学--建模、规划与控制[M]. 张国良，等，译. 西安：西安交通大学出版社，2013.  
 [4] S. Thrun, W. Burgard, and D. Fox. 概率机器人[M]. 曹红玉，等，译. 北京：机械工业出版社，2017.  
-[5] P. Coke. 机器人学、机器视觉与控制[M]. 刘荣，等，译. 北京：电子工业出版社，2016.
+[5] P. Coke. 机器人学、机器视觉与控制[M]. 刘荣，等，译. 北京：电子工业出版社，2016.  
+[6] J. J. Craig. 机器人学导论[M]. 贠超，等，译. 北京：机械工业出版社，2018.  
+[7] S. B. Niku. 机器人学导论--分析、控制及应用[M]. 孙富春，等，译. 北京：电子工业出版社，2013.
 
 ## 2. MATLAB 仿真
 [1] 刘金琨. 机器人控制系统的设计与MATLAB仿真--基本设计方法[M]. 北京，清华大学出版社，2016. 
@@ -14,13 +16,21 @@
 [1] T. D. Barfoot. 机器人学中的状态估计[M]. 高翔，等，译. 西安：西安交通大学出版社，2018.
 
 ## 4. 欠驱动机器人
-[1] R. Tedrake. Underactuated Robotics--Learning, Planning, and Control for Efficient and Agile Machines[M]. Course Notes for MIT 6.832, 2018.
+[1] R. Tedrake. Underactuated Robotics--Learning, Planning, and Control for Efficient and Agile Machines[M]. Course Notes for MIT 6.832, 2009.
 
 ## 5. 仿生机器人
 [1] 贺威，孙长银. 扑翼飞行机器人系统设计[M]. 北京，化学工业出版社，2018. 
 
 ## 6. 自动驾驶
+[1] 熊光明，龚建伟，陈慧岩. 无人驾驶车辆理论与设计[M]. 北京：北京理工大学出版社，2021.  
+[2] 龚建伟，姜岩，徐威. 无人驾驶车辆模型预测控制[M]. 北京：北京理工大学出版社，2014.  
+[3] 申泽邦，雍宾宾，周庆国，李良，李冠憬. 无人驾驶原理与实践[M]. 北京：机械工业出版社，2019.
 
 ## 7. SLAM
+[1] 高翔，张涛. 视觉SLAM十四讲--从理论到实践[M]. 北京：电子工业出版社，2018.  
+[2] 程小六. 视觉惯性SLAM--理论与源码解析[M]. 北京：电子工业出版社，2023.
 
 ## 8. ROS
+[1] M. Quigley, B. Gerkey, W. D. Smart. ROS机器人编程实践[M]. 张天雷， 等，译. 北京：机械工业出版社，2017.  
+[2] 胡春旭. ROS机器人开发实践[M]. 北京：机械工业出版社，2018.
+
